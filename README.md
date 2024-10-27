@@ -1,1 +1,4 @@
 # CO2-Emission-prediction
+
+ The application domain of the dataset is environmental monitoring and gas control in smart homes and cities. The dataset contains information about CO2 emissions from various countries over a period of time, along with other related variables such as population, area, and density. The goal of the project is to design an IoT system that utilizes environmental monitoring sensors, wireless networks, and cloud services to control and analyze CO2 emissions. Machine learning modeling will be applied to predict extreme concentrations of CO2 in the air. Data analysis techniques involve statistical analysis, time series analysis, and machine learning algorithms The project involves the use of hardware components, network protocols, and software tools to develop the IoT architecture. The provided dataset will be processed and analyzed using Python on an IoT cloud platform such as Google, AWS, or Microsoft Azure.
+
